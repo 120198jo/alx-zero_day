@@ -1,2 +1,2 @@
-my first commmit !
+my first commit !
 great guy!
